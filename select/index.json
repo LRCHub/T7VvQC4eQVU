@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Welcome to The Garden",
+  "base_artist": "Yoshino Nanjo",
+  "createdAt": "2025-12-18T13:54:14.253509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Welcome to the Garden State",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/01_Welcome_to_the_Garden_State_Overkill.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Welcome to The Garden",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/pl_01_Welcome_to_The_Garden_南條愛乃.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Welcome to The Garden",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/pl_02_Welcome_to_The_Garden_南條愛乃.txt"
+    }
+  ]
+}
